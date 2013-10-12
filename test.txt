@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 Hello
 
 test1
 test2
-=======
-Hello
->>>>>>> parent of d4c22fa... test1
